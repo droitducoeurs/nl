@@ -67,6 +67,9 @@
 #header4-10 .btn {
   font-family: 'Open Sans Condensed', sans-serif;
 }
+
+
+
 #ext_menu-1 .mbr-brand__name {
   font-size: 16px;
 }
@@ -79,6 +82,18 @@
 #ext_menu-1 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#header4-4 H1 {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-4 P {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header4-4 .btn {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 #ext_menu-2 .mbr-brand__name {
   font-size: 16px;
 }
@@ -93,4 +108,5 @@
 }
 #header4-3 P {
   color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
