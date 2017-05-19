@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "TheMeltingMan2.html",
+    "currentPage": "tolsoty1.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "The Frogs and the Hares NL",
@@ -311,17 +311,17 @@
           "_name": "header4",
           "_styles": {
             "H1": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".btn": {
-              "font-size": "36px",
+              "font-size": "21px",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
@@ -340,7 +340,7 @@
             "contentAlign": "center",
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -348,7 +348,7 @@
           },
           "title": "The Hares <br>and <br>The Frogs<br>",
           "text": "De fabel die iond 1904 geschreven werd door Tolstoy wordt geïnterpreteerd door Caroline Verlaeckt en in een nieuw jasje gestoken. Het toch wel donkere kinderverhaal speelt zich af in een secte van de hazen die het zat zijn te worden misbruikt door hun mede. Een moeder probeert haar kleintje te overtuigen dat zelfmoord de beste oplossing is .",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Preview</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"tolstoy2.html\" data-toolbar=\"-mbrBtnMove\">Preview</a> "
         }
       ]
     },
@@ -466,6 +466,22 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".btn": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
           "_anchor": "header4-4",
           "_params": {
             "parallax": true,
@@ -488,23 +504,7 @@
           },
           "title": "The Melting Man",
           "text": "Dit is een verhaal over een man wiens huid smelt.<br>Hij probeert zichzelf bij elkaar te houden door touw te gebruiken.<br>Hij is het zat slecht te worden behandeld door zijn medemensen en beslist om weg te lopen .<br>Dit is zijn reis naar vrijheid.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"TheMeltingMan2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Preview</a> ",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "P": {
-              "color": "#000000",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"TheMeltingMan2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Preview</a> "
         }
       ]
     },
